@@ -36,8 +36,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ayomide-Philip&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
