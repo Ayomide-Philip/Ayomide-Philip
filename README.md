@@ -5,7 +5,7 @@
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide-Philip&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayomide-Philip&theme=github-dark&hide_border=true)
 
 <!--
 **Ayomide-Philip/Ayomide-Philip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
