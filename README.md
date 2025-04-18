@@ -7,6 +7,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayomide-Philip&theme=github-dark&hide_border=true)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Ayomide-Philip&theme=gruvbox)
+
 <!--
 **Ayomide-Philip/Ayomide-Philip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
