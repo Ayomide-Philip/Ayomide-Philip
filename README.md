@@ -9,6 +9,8 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Ayomide-Philip&theme=gruvbox)
 
+![Profile views](https://komarev.com/ghpvc/?username=Ayomide-Philip)
+
 <!--
 **Ayomide-Philip/Ayomide-Philip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
