@@ -1,3 +1,9 @@
-![👋 Hi, my name is Areo Ayomide Philip](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/Ayomide-Philip/stats)
 
-[https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat](https://www.statsforgit.com/Ayomide-Philip)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Ayomide-Philip/contributions)
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Ayomide-Philip/highlights)
+
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Ayomide-Philip/archtype)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/Ayomide-Philip/quirk)
