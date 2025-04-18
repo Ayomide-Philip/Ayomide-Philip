@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 💻 Frontend Dev | React & JavaScript
-- 🧠 Always learning new things (currently diving into TypeScript + Next.js)
+- 🧠 Always learning new things (currently diving into React + Node.js)
 - 🛠 Passionate about clean UI and developer experience
 - 📫 Reach me on socials or drop a repo star ⭐
 
